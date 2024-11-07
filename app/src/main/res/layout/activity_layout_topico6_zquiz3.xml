@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Topico6_zquiz3"
+    android:background="@drawable/background_azul">
+
+    <TextView
+        android:id="@+id/tvwTitleAquaLife"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="cursive"
+        android:text="@string/quiz"
+        android:textColor="#20C2D7"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/containerMain"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"/>
+
+    <View
+        android:id="@+id/containerMain"
+        android:layout_width="match_parent"
+        android:layout_height="580dp"
+        android:layout_marginHorizontal="20dp"
+        android:background="@drawable/container_quiz"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.497" />
+
+    <TextView
+        android:id="@+id/txtTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="@string/perguntaTitulo"
+        android:textColor="@color/white"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@id/containerMain"
+        app:layout_constraintStart_toStartOf="@id/containerMain"
+        app:layout_constraintTop_toTopOf="@id/containerMain" />
+
+    <TextView
+        android:id="@+id/txtUsername"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="40dp"
+        android:layout_marginVertical="10dp"
+        android:gravity="center"
+        android:text="@string/numero3.t6"
+        android:textSize="26dp"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="@id/containerMain"
+        app:layout_constraintStart_toStartOf="@id/containerMain"
+        app:layout_constraintTop_toBottomOf="@id/txtTitle"
+        tools:layout_editor_absoluteY="222dp" />
+
+
+
+    <TextView
+        android:id="@+id/txtWelcome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="40dp"
+        android:layout_marginVertical="5dp"
+        android:text="@string/pergunta3.t6"
+        android:gravity="center"
+        android:textSize="26dp"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="@id/containerMain"
+        app:layout_constraintStart_toStartOf="@id/containerMain"
+        app:layout_constraintTop_toBottomOf="@id/txtUsername"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"/>
+
+
+
+    <RadioGroup
+        android:id="@+id/rdioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="@id/containerMain"
+        app:layout_constraintStart_toStartOf="@id/containerMain"
+        app:layout_constraintTop_toBottomOf="@id/txtWelcome">
+
+        <RadioButton
+            android:id="@+id/rdioButton1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="respostaCorreta"
+            android:text="@string/resposta1.3t6"
+            android:textColor="@color/white"
+            android:layout_marginHorizontal="25dp"
+            android:textSize="16sp"
+            app:buttonTint="@color/blue"
+            app:layout_constraintEnd_toEndOf="@id/containerMain"
+            app:layout_constraintStart_toStartOf="@id/containerMain"
+            app:layout_constraintTop_toBottomOf="@id/txtWelcome" />
+
+        <RadioButton
+            android:id="@+id/rdioButton2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="respostaCorreta"
+            android:text="@string/resposta2.3t6"
+            android:textColor="@color/white"
+            android:layout_marginHorizontal="25dp"
+            android:textSize="16sp"
+            app:buttonTint="@color/blue"
+            app:layout_constraintEnd_toEndOf="@id/containerMain"
+            app:layout_constraintStart_toStartOf="@id/containerMain"
+            app:layout_constraintTop_toBottomOf="@id/rdioButton1" />
+
+        <RadioButton
+            android:id="@+id/rdioButton3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="respostaCorreta"
+            android:text="@string/resposta3.3t6"
+            android:textColor="@color/white"
+            android:layout_marginHorizontal="25dp"
+            android:textSize="16sp"
+            app:buttonTint="@color/blue"
+            app:layout_constraintEnd_toEndOf="@id/containerMain"
+            app:layout_constraintStart_toStartOf="@id/containerMain"
+            app:layout_constraintTop_toBottomOf="@id/rdioButton2" />
+
+        <RadioButton
+            android:id="@+id/rdioButton4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="respostaCorreta"
+            android:text="@string/resposta4.3t6"
+            android:textColor="@color/white"
+            android:layout_marginHorizontal="25dp"
+            android:textSize="16sp"
+            app:buttonTint="@color/blue"
+            app:layout_constraintEnd_toEndOf="@id/containerMain"
+            app:layout_constraintStart_toStartOf="@id/containerMain"
+            app:layout_constraintTop_toBottomOf="@id/rdioButton3" />
+    </RadioGroup>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnCheck"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="40dp"
+        android:padding="15sp"
+        android:layout_marginTop="0sp"
+        android:text="@string/verificarResposta"
+        android:background="@drawable/background_button_selector"
+        android:enabled="true"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:cornerRadius="30dp"
+        app:layout_constraintVertical_bias="0.2"
+        app:layout_constraintBottom_toBottomOf="@id/containerMain"
+        app:layout_constraintEnd_toEndOf="@id/containerMain"
+        app:layout_constraintStart_toStartOf="@id/containerMain"
+        app:layout_constraintTop_toBottomOf="@id/rdioGroup" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnContinue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="140dp"
+        android:layout_marginTop="85dp"
+        android:layout_marginEnd="80dp"
+        android:layout_marginStart="215dp"
+        android:background="@drawable/background_button_selector"
+        android:enabled="true"
+        android:padding="15sp"
+        android:text="@string/setaAvancar"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:cornerRadius="30dp"
+        app:layout_constraintTop_toBottomOf="@id/rdioGroup"  />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnVoltar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="140dp"
+        android:layout_marginTop="85dp"
+        android:layout_marginEnd="220dp"
+        android:layout_marginStart="75dp"
+        android:background="@drawable/background_button_selector"
+        android:enabled="true"
+        android:padding="15sp"
+        android:text="@string/setaVoltar"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:cornerRadius="30dp"
+        app:layout_constraintTop_toBottomOf="@id/rdioGroup" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

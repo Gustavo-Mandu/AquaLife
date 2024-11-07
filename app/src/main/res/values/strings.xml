@@ -1,0 +1,402 @@
+<resources>
+    <!-- Login -->
+    <string name="aquaLife">AquaLife</string>
+    <string name="login">Login</string>
+    <string name="logar">Logar</string>
+    <string name="insiraSuasCredenciais">Insira suas credenciais</string>
+    <string name="apelido">Apelido...</string>
+    <string name="senha">Senha...</string>
+    <string name="desejaFazerUmCadastro">Deseja fazer um Cadastro?</string>
+    <string name="sobre">Sobre</string>
+
+    <!-- Cadastro -->
+    <string name="cadastro">Cadastro</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="desejaFazerLogin">Deseja fazer Login?</string>
+
+    <!-- Sobre -->
+    <string name="textoSobre">Equipe do Projeto: \n\n Gustavo Mandu Ferreira Matori \n Ryan Oliveira Dias \n Clara Batista \n\n O AquaLife foi feito como atividade da disciplina Programação para Dispositivos Móveis ministrada pelo Prof° Jadir Mendonça.\n\n O AquaLife é uma iniciativa para educação e conscientização da população sobre os Oceanos e Animais Marinhos. \n\n Ao se cadastrar o app salvará seu progresso, permitindo que quando volte a jogar posteriormente o seu avanço não seja perdido.</string>
+    <string name="gerenciarDados">Gerenciar Dados</string>
+    <string name="fechar">Fechar</string>
+    <string name="sobreAquaLife">Sobre AquaLife</string>
+
+    <!-- User Settings -->
+    <string name="configuracoes">Configurações</string>
+    <string name="insiraUmNomeParaDeletar">Insira um nome para deletar...</string>
+    <string name="insiraASenhaDoUsuario">Insira a senha do usuário...</string>
+    <string name="deletarUmUsuario">Deletar um usuário</string>
+    <string name="telaDeLogin">Tela de Login</string>
+
+    <!-- Main Activity -->
+    <string name="paginaInicial">Página Inicial</string>
+    <string name="olaNome">Olá, nome!</string>
+    <string name="sejaBemVindo">Seja bem-vindo!</string>
+    <string name="desejaMudarDeConta">Deseja mudar de conta?</string>
+    <string name="novaJornada">Nova Jornada</string>
+    <string name="continuar">Continuar</string>
+
+    <!-- Topicos -->
+    <string name="setaVoltar">◀</string>
+    <string name="botaoHome">🏠</string>
+    <string name="setaAvancar">▶</string>
+
+    <!-- Telas_t-->
+    <string name="textoTopico1_t1">Olá, estudante! \nVocê está no AquaLife, um app de aprendizado orientado a jogos de perguntas e respostas, espero que você se divirta com nossas atividades e saia com consciência sobre a vida marinha e seu papel para mudar o mundo!\n Divirta-se!</string>
+
+    <string name="textoTopico1_t2">Introdução marinha\n\nOs oceanos compõem cerca de 71% do planeta Terra, uma imensidão de água salgada que habita mais de 260 milhões de espécies marítimas vivendo em oceanos.\n\nA cada ano é descoberto cerca de 2 mil espécies por ano, de acordo com fontes do G1 é dito que: censo mostra que cientistas estão dispostos a encontrar 100 mil espécies nos próximos 10 anos.\n\nNo Brasil cerca de 95% do comércio internacional é feito através de navegações, os mares banham 8 mil quilômetros de nosso litorais e rios, ou seja, além de abrigar vidas aquáticas os oceanos também possuem seu valo econômico, mas os oceano não são importantes apenas para a vida aquática e econômica.\n\nEles possuem importância em relação ao oxigênio de todo planeta, já que as algas são considerados os verdadeiros "pulmão do mundo" e não a Amazônia (desculpa Amazônia), compondo 54% do oxigênio de todo planeta.\nMuito interessante não é? Mas temos muitos problemas que ameaçam todas essas maravilhas, e precisamos resolve-los antes que seja tarde demais.\nE a nossa melhor ferramenta para combater isso... é o nosso conhecimento!\n\nAgora que você sabe toda a importância dos oceanos, vamos testar seu conhecimento com alguma perguntinhas. Sei que você se dará bem e não tem problema errar desde que você aprenda com os seus erros. Boa sorte!</string>
+
+    <string name="textoTopico2_t1">Animais Marinhos\n\nAnimais marinho são animais que estão habituados em oceanos e mares, ou seja, ambiente com água salgada.\n\nEles possuem diversos tamanhos, formas e estilo de vida diferentes como dito anteriormente são mais de 260 milhões de espécies que posteriormente serão descobertas ainda mais.\n\n
+Eles são divididos por grupos:\n\nPeixes, Crustáceos, Equinodermos, Mamíferos, Répteis, Vermes marinhos, Moluscos, Esponjas e Rotíferos.\n\n
+Começaremos pelos animais mais conhecidos, os peixes.\n\n
+Peixes: Apesar de sua vasta diversidade e espécies distintas todos os peixes possuem:\n\nCorpo tipicamente fusiforme, respiração geralmente do tipo branquial, presença de nadadeiras e ectotermia.\n\n
+Répteis marinhos: são animais rastejantes que possuem a capacidade de nado também, tendo a capacidade de se adaptar e viverem em oceanos, corpo com poucas glândulas, impermeável e coberto por escamas e/ou placas ósseas, a presença de pulmões, e ovos com casca e anexos.\n\n
+Mamíferos: são animais que fazem parte da mesma categoria que nós humanos, possuindo: coluna vertebral, reprodução vivípara e sistemas pulmonares desenvolvido. Entretanto apesar de algumas semelhanças com os humanos eles possuem suas individualidades. Sendo esses grupos de animais marinhos:\n\n
+	Sirênios: animais de grade porte, são herbívoros e se locomovem com lentidão. Exemplos: Peixe-boi;\n\n
+	Cetáceos: são mamíferos de pequeno porte que também são divididos me mais de 80 espécie;\n\n
+	Pinipédes: são animais que vivem tanto fora quanto dentro quanto da água. Exemplo: Urso polar.\n\n
+Crustáceos: Possuem carapaça e membros inferiores articulados, possui dois pares de antenas na cabeça e são invertebrados, corpo segmentado, apêndices articulados, celoma, simetria bilateral e sistema digestório completo. Exemplo: Camarão;\n\n
+Vermes marinhos: corpo alongado e/ou achatado e sem esqueleto interno ou externo, não possuem membros, embora possam ter apêndices reduzidos na superfície para a locomoção.\n\n
+Equinodermos: apresentam um esqueleto interno (endoesqueleto) formado por placas calcárias, o qual porta comumente espinhos ou tubérculos salientes.\n\n
+Rotíferos marinhos: coroas ciliadas localizadas em sua cabeça, uma estrutura característica usada tanto para locomoção como para coletar partículas de alimentos.\n\n
+Esponjas: são animais invertebrados, que possuem um conjunto corporal bem simplificado, apenas uma fina estrutura externa cheia de furinhos microscópicos e uma abertura grande na ponta, chamada de ósculo. Não possuem sistema nervoso, músculos e nem órgãos internos.\n\n
+
+        Entendeu sobre a características sobre os animais, sei que são bastantes, mas é isso que faz os nossos oceanos serem tão ricos de seres intrigantes e maravilhosos. Agora você fará um pequeno teste, boa sorte!</string>
+
+    <string name="textoTopico3_t1">Poluição Marinha\n\nComo no assunto abordado anteriormente a vida aquática está em constante ameaça graças a nossas ações, como o descarte irregular de lixo.\n\nAlgumas ações já são feitas para amenizar esse tipo de impacto no ambiente, como a adesão de: canudos de papel, utilização de sacolas reutilizáveis, reciclar lixo, entre outros métodos.\n\nEntretanto isso não será suficiente enquanto não houver a conscientização de todas as pessoas, e é aí que nós fazemos nossa parte.\n\n
+E como podemos fazer isso? Não descartar o lixo no chão, não jogar óleo nas pias, não jogar sacolas plásticas em mares e rios ou lagos, não descartar medicamentos em vasos sanitários, reduzir desperdício de água, evitar utilizar produtos químicos para limpeza.\n\n
+Um dos principais problemáticos na vida marinha é a presença do plástico devido descarte irregular desse tipo de material, onde acaba por ser uma potencial ameaça a vida marinha caso esses animais acabem por ingerir ou se asfixiar com esse tipo de material. Além disso um problema ainda mais grave é quando esse mesmo plástico acaba por se fragmentar a um nível que se torna um micro plástico.\n\nIsso não só afeta esses animais pela ingestão, como também nos afeta ao nos alimentar desses animais.\n\n
+Além do plástico o vazamento de petróleo, problema no qual é decorrente de acidentes nas plataformas e embarcações carregadas de petróleo, que impactam todo ecossistema marinho e a todos os seres vivos. Esse vazamento impede a penetração de luz solar causando a morte de algas e fitoplanctons que não podem realizar fotossíntese em decorrência disso; Pode intoxicar esses animais marinhos ao ingerirem essa substância; Além dos peixes as aves também são afetadas por desequilíbrio térmico caso sejam cobertos pelo petróleo; Afeta o turismo local; A pesca acaba por ser inviável justamente por essa intoxicação; entre outros problemas.\n\n
+
+Conseguiu entender a importância dos cuidados com o nosso lixo e o quão isso impacta na vida marinha? Se sim, então vamos colocar seu conhecimento à prova! Boa sorte.</string>
+
+    <string name="textoTopico4_t1">Reciclagem\n\nJá que entendemos a importância de não descartarmos o lixo de forma irregular, por que não aprendemos um pouco sobre a reciclagem?\n\n
+Primeiro vamos entender oque é a reciclagem e como ela funciona, e como podemos tornar nosso planeta mais saudável e menos poluído, tanto em ambientes terrestres como aquáticos também!\n\n
+A reciclagem é o método de reaproveitamento de um material que seria descartado Materiais que são descartados sem serem reciclados acabam perdendo seu valor, posteriormente sendo despejado em lixões ou em mares ou rios.\n\nAo reciclar esses materiais seu valor restaurado e reutilizado, trazendo um ambiente sustentável reduzindo essa quantidade de resíduos produzidos.\n\n
+Essa técnica funciona da seguinte forma:\n\n
+ - Primeiro é feito uma separação de cada material e classificação de como ele será tratado, a partir desses sistema foi feito lixeiras com cores que representam o lixo que deverá ser despejado, sendo essas cores:\n\namarelo (metais), vermelho (plásticos), marrom (orgânicos), azul(papéis e papelões), cinza (não reciclados), branco (lixo hospitalar), preto (madeira), laranja (resíduos perigosos), roxo (resíduo radioativo).\n\nOs mais comuns que são encontrados são: azul, vermelho, amarelo e verde.\n\n
+ - Segundo a coleta seletiva que é dividida entre: Postos de Entrega Voluntária (PEV): que estão mais acessíveis a população onde é depositado em contêineres;\n\nPosto de  Troca: os resíduos utilizado pela pessoa pode ser trocado por bens matérias como devolutiva;\n\nPorta a Porta: é definido um dia da semana parque coletores de lixo passem para retirar esse lixo que foi separado pelos moradores;\n\nPrograma Interno de Coleta Seletiva (PIC): parceria realizada por instituições públicos ou privadas para a coleta de materiais recicláveis por catadores.\n\n
+ - Terceiro a renovação é feita com mudanças com o lixo em relação ao seu estado físico e químico e até mesmo biológico.\n\nPara que por fim se torne novamente a matéria prima ou reformulada em um novo produto.\n\n
+ - Quarto após todo esse processo o material é retornado ao mercado como matéria-prima.\n\n
+Esses processos são nomeados respectivamente como: Coleta, Triagem, Transformação e Realocação.\n\n
+E por que reciclar é tão importante? Você deve estar se perguntando, aqui está alguns exemplos de benefícios ao reciclar seu lixo:\n\n
+Redução da poluição da água, redução do acumulo de lixo, reaproveitamento de materiais usados, melhor qualidade de vida, geração de empregos, desenvolvimento de conscientização ecológica, incentivo a limpeza pública das cidades, maior responsabilidade social e ambiental, racionalização dos recursos naturais.\n\n
+
+Agora que você entendeu como a reciclagem é importante para o ambiente e para a sociedade, vamos testar seu conhecimento em ação sobre esse tópico tão importante. Boa sorte!</string>
+
+    <string name="textoTopico5_t1">Tecnologia\n\nNesse tópico iremos abordar um tema muito interessante no ramo da ciência que está ligada a tecnologia e nossos oceanos, as tecnologias sustentáveis.\n\nO mundo anda por constantes mudanças e com o avanço da ciência e da tecnologia isso fica ainda mais evidente, podendo serem usadas não somente para facilitar a vida da humanidade ou como ferramenta de entretenimento. Como também, para auxiliar na sustentabilidade de nosso planeta.\n\n
+Pegando como exemplo os problemas citados bem ao início de nossa aventura, como:\n\npoluição, pesca e mudanças climáticas.\n\nDeixam em evidência a necessidade de encontrar meios mais efetivos e eficazes para solucionar esses problemas tão recorrentes como esses.\n\n
+Há algumas tecnologias que já são aplicadas em nosso dia a dia para monitoração e resolução dessas ameaças:\n\n
+
+Monitoramento por Satélite e Inteligência Artificial - a junção dessas duas ferramentas acaba por se tornar um método muito poderoso de monitoração dos nossos oceanos.\n\nPermitindo visualizar atividades de ilegais em tempo real em uma escala global. Além de identificar habitats marinho que possuem uma carência maior para serem conservados.\n\n
+
+Barreiras Flutuantes para Limpeza de Resíduos Plásticos - esse tipo de tecnologia tem como objetivo recolher detritos despejados em oceanos e direciona-los através da corrente marítima em uma área delimitada agindo de forma passiva, para que depois seja recolhido para reciclagem.\n\n
+
+Recifes Artificiais e Tecnologias de Restauração Marinha: tem como objetivo criar recifes artificiais e um ambiente para áreas que tenham sofrido com a degradação desses recifes de corais. Como resultado acreditam que haja uma e redução da erosão de costas.\n\n
+
+Energias Renováveis no Mar - essa tecnologia visa aproveitar recursos de Energia eólica e da movimentação da corrente oceânica, com o intuito de gerar energia renovável. Reduzindo a necessidade de gerar energia por combustíveis poluentes e na emissão de gases, sendo uma energia limpa e ilimitada.\n\n
+
+Apesar da tecnologia ser muito útil para conservação do meio ambiente, ela não se limita somente a isso, mas como também na exploração e estudo dos animais presentes nesse ambiente.\n\nCom o intuito de compreendermos melhor como esse sistema funciona e como podemos ajudar a partir desses conhecimentos adquiridos com o auxilio da tecnologia.\n\n
+
+A tecnologia está para nos ajudar assim como estamos fazendo para que você se conscientize sobre esses problemas e como soluciona-los, e nada mais importante do que testar você para saber se realmente aprendeu, então vamos lá! Boa sorte!
+</string>
+
+
+    <!-- Topico1 Quiz 1 -->
+    <string name="quiz">Quiz</string>
+    <string name="perguntaTitulo">Perguntas</string>
+    <string name="pergunta1.t1">Quantas espécies marinhas vivem nos oceanos atualmente?</string>
+    <string name="numero1.t1">1</string>
+    <string name="verificarResposta">Verificar Resposta</string>
+    <string name="avancar">Avançar</string>
+    <string name="resposta1.1t1">a) Cerca de 260 mil</string>
+    <string name="resposta2.1t1">b) Cerca de 100 mil</string>
+    <string name="resposta3.1t1">c) Cerca de 500 mil</string>
+    <string name="resposta4.1t1">d) Cerca de 1 milhão</string>
+    <string name="voltar">Voltar</string>
+
+    <!-- Topico1 Quiz 2 -->
+    <string name="pergunta2.t1">Qual é a porcentagem de superfície do planeta Terra que os oceanos ocupam?</string>
+    <string name="numero2.t1">2</string>
+    <string name="resposta1.2t1">a) 50%</string>
+    <string name="resposta2.2t1">b) 60%</string>
+    <string name="resposta3.2t1">c) 71%</string>
+    <string name="resposta4.2t1">d) 80%</string>
+
+    <!-- Topico1 Quiz 3 -->
+    <string name="pergunta3.t1">Quantas novas espécies marinhas são descobertas a cada ano?</string>
+    <string name="numero3.t1">3</string>
+    <string name="resposta1.3t1">a) 500</string>
+    <string name="resposta2.3t1">b) 1.000</string>
+    <string name="resposta3.3t1">c) 2.000</string>
+    <string name="resposta4.3t1">d) 5.000</string>
+
+    <!-- Topico1 Quiz 4 -->
+    <string name="pergunta4.t1">Qual é o principal benefício das algas para o planeta?</string>
+    <string name="numero4.t1">4</string>
+    <string name="resposta1.4t1">a) Produzem cerca de 54% do oxigênio do planeta</string>
+    <string name="resposta2.4t1">b) Purificam a água do oceano</string>
+    <string name="resposta3.4t1">c) Fornecem alimentos para peixes</string>
+    <string name="resposta4.4t1">d) Aumentam a biodiversidade marinha</string>
+
+    <!-- Topico1 Quiz 5 -->
+    <string name="pergunta5.t1">Oque indiretamente ou diretamente contribui para a poluição do meio ambiente aquático</string>
+    <string name="numero5.t1">5</string>
+    <string name="resposta1.5t1">a) O descarte irregular de lixo.</string>
+    <string name="resposta2.5t1">b) O aquecimento global.</string>
+    <string name="resposta3.5t1">c) A pesca excessiva.</string>
+    <string name="resposta4.5t1">d) Todas as alternativas estão corretas.</string>
+
+
+    <!-- Topico2 Quiz 1 -->
+    <string name="pergunta1.t2">Qual característica é comum entre todos os peixes?</string>
+    <string name="numero1.t2">1</string>
+    <string name="resposta1.1t2">a) Corpo com pernas articuladas</string>
+    <string name="resposta2.1t2">b) Presença de pulmões e respiração aérea</string>
+    <string name="resposta3.1t2">c) Corpo fusiforme e respiração branquial</string>
+    <string name="resposta4.1t2">d) Corpo coberto por placas ósseas</string>
+
+    <!-- Topico2 Quiz 2 -->
+    <string name="pergunta2.t2">Os répteis marinhos têm uma característica única em seu corpo. Qual é?</string>
+    <string name="numero2.t2">1</string>
+    <string name="resposta1.2t2">a) Cobertura de escamas e/ou placas ósseas</string>
+    <string name="resposta2.2t2">b) Carapaça e membros articulados</string>
+    <string name="resposta3.2t2">c) Coroa ciliada na cabeça</string>
+    <string name="resposta4.2t2">d) Corpo composto por segmentos articulados</string>
+
+    <!-- Topico2 Quiz 3 -->
+    <string name="pergunta3.t2">Qual grupo de mamíferos marinhos pode viver tanto na água quanto em terra?</string>
+    <string name="numero3.t2">2</string>
+    <string name="resposta1.3t2">a) Sirênios</string>
+    <string name="resposta2.3t2">b) Cetáceos</string>
+    <string name="resposta3.3t2">c) Pinípedes</string>
+    <string name="resposta4.3t2">d) Crustáceos</string>
+
+    <!-- Topico2 Quiz 4 -->
+    <string name="pergunta4.t2">Qual das características é típica dos crustáceos?</string>
+    <string name="numero4.t2">3</string>
+    <string name="resposta1.4t2">a) Possuem dois pares de antenas na cabeça</string>
+    <string name="resposta2.4t2">b) Coroas ciliadas usadas para locomoção</string>
+    <string name="resposta3.4t2">c) Esqueleto interno com espinhos</string>
+    <string name="resposta4.4t2">d) Corpo coberto por escamas e placas ósseas</string>
+
+    <!-- Topico2 Quiz 5 -->
+    <string name="pergunta5.t2">Qual característica distingue os vermes marinhos?</string>
+    <string name="numero5.t2">4</string>
+    <string name="resposta1.5t2">a) Corpo segmentado com apêndices para locomoção</string>
+    <string name="resposta2.5t2">b) Corpo alongado ou achatado, sem esqueleto interno ou externo</string>
+    <string name="resposta3.5t2">c) Esqueleto com espinhos</string>
+    <string name="resposta4.5t2">d) Corpo coberto por uma carapaça</string>
+
+
+    <!-- Topico3 Quiz 1 -->
+    <string name="pergunta1.t3">Qual é um dos perigos do descarte de plástico para os animais marinhos?</string>
+    <string name="numero1.t3">1</string>
+    <string name="resposta1.1t3">a) O plástico se dissolve e polui a água</string>
+    <string name="resposta2.1t3">b) O plástico altera a temperatura da água</string>
+    <string name="resposta3.1t3">c) Os animais podem ingerir ou se asfixiar com o plástico</string>
+    <string name="resposta4.1t3">d) O plástico atrai predadores</string>
+
+    <!-- Topico3 Quiz 2 -->
+    <string name="pergunta2.t3">O que são micro plásticos?</string>
+    <string name="numero2.t3">2</string>
+    <string name="resposta1.2t3">a) Fragmentos de plástico de tamanho microscópico</string>
+    <string name="resposta2.2t3">b) Resíduos de plástico em grande escala</string>
+    <string name="resposta3.2t3">c) Sacolas plásticas que se dissolvem na água</string>
+    <string name="resposta4.2t3">d) Plástico biodegradável</string>
+
+    <!-- Topico3 Quiz 3 -->
+    <string name="pergunta3.t3">Qual alternativa NÂO corresponde aos métodos de preservação marinha?</string>
+    <string name="numero3.t3">3</string>
+    <string name="resposta1.3t3">a) Jogar óleo na pia</string>
+    <string name="resposta2.3t3">b) Reciclar lixo</string>
+    <string name="resposta3.3t3">c) Não descartar o lixo irregularmentea</string>
+    <string name="resposta4.3t3">d) Utilização de sacolas renováveis</string>
+
+    <!-- Topico3 Quiz 4 -->
+    <string name="pergunta4.t3">Por que o consumo de microplásticos é uma preocupação para os seres humanos?</string>
+    <string name="numero4.t3">4</string>
+    <string name="resposta1.4t3">a) Eles podem causar problemas nos equipamentos de pesca</string>
+    <string name="resposta2.4t3">b) Os microplásticos interferem na produção de oxigênio</string>
+    <string name="resposta3.4t3">c) Os microplásticos podem entrar na cadeia alimentar e nos afetar</string>
+    <string name="resposta4.4t3">d) Eles impedem a formação de corais</string>
+
+    <!-- Topico3 Quiz 5 -->
+    <string name="pergunta5.t3">Em que o vazamento de petróleo pode ser prejudicial?</string>
+    <string name="numero5.t3">5</string>
+    <string name="resposta1.5t3">a) O vazamento de petróleo prejudica: animais, ecossistema, economia e o turismo do local.</string>
+    <string name="resposta2.5t3">b) O derramamento de petróleo não é prejudicial já que há muitas formas de ser retirado com facilidade.</string>
+    <string name="resposta3.5t3">c) O vazamento de petróleo impacta somente na economia, já que a pesca e o turismo são exclusivamente prejudicados</string>
+    <string name="resposta4.5t3">d) O vazamento de petróleo afeta os animais e a economia, mas não afeta o ecossistema em si.</string>
+
+
+    <!-- Topico4 Quiz 1 -->
+    <string name="pergunta1.t4">O que é reciclagem?</string>
+    <string name="numero1.t4">1</string>
+    <string name="resposta1.1t4">a) Descarte de materiais de forma irreversível.</string>
+    <string name="resposta2.1t4">b) Descarte de materiais apenas em lixões.</string>
+    <string name="resposta3.1t4">c) Processo de reaproveitamento de materiais que seriam descartados.</string>
+    <string name="resposta4.1t4">d) Processo de incineração de lixo.</string>
+
+    <!-- Topico4 Quiz 2 -->
+    <string name="pergunta2.t4">A lixeira amarela é destinada a qual tipo de material?</string>
+    <string name="numero2.t4">2</string>
+    <string name="resposta1.2t4">a) Plásticos</string>
+    <string name="resposta2.2t4">b) Metais</string>
+    <string name="resposta3.2t4">c) Papel e papelão</string>
+    <string name="resposta4.2t4">d) Orgânicos</string>
+
+    <!-- Topico4 Quiz 3 -->
+    <string name="pergunta3.t4">Qual dos métodos de coleta seletiva permite que a população deposite materiais recicláveis em contêineres acessíveis?</string>
+    <string name="numero3.t4">3</string>
+    <string name="resposta1.3t4">a) Posto de Troca</string>
+    <string name="resposta2.3t4">b) Posto de Entrega Voluntária (PEV)</string>
+    <string name="resposta3.3t4">c) Porta a Porta</string>
+    <string name="resposta4.3t4">d) Programa Interno de Coleta Seletiva (PIC)</string>
+
+    <!-- Topico4 Quiz 4 -->
+    <string name="pergunta4.t4">Qual é a ordem dos processos de reciclagem?</string>
+    <string name="numero4.t4">4</string>
+    <string name="resposta1.4t4">a) Coleta, Triagem, Realocação e Transformação</string>
+    <string name="resposta2.4t4">b) Triagem, Coleta, Transformação e Realocação</string>
+    <string name="resposta3.4t4">c) Transformação, Triagem, Realocação e Coleta</string>
+    <string name="resposta4.4t4">d) Coleta, Realocação, Transformação e Triagem</string>
+
+    <!-- Topico4 Quiz 5 -->
+    <string name="pergunta5.t4">Por que a reciclagem é importante para a sociedade e o meio ambiente?</string>
+    <string name="numero5.t4">5</string>
+    <string name="resposta1.5t4">a) Ela reduz o acúmulo de lixo e ajuda na racionalização dos recursos naturais</string>
+    <string name="resposta2.5t4">b) Ela aumenta o acúmulo de lixo e a poluição da água</string>
+    <string name="resposta3.5t4">c) Ela reduz a conscientização ecológica</string>
+    <string name="resposta4.5t4">d) Ela diminui a qualidade de vida</string>
+
+
+    <!-- Topico5 Quiz 1 -->
+    <string name="pergunta1.t5">Qual é um dos benefícios do uso de tecnologia para exploração e estudo dos oceanos?</string>
+    <string name="numero1.t5">1</string>
+    <string name="resposta1.1t5">a) Facilita o descarte de resíduos no mar</string>
+    <string name="resposta2.1t5">b) Gera mais poluição</string>
+    <string name="resposta3.1t5">c) Aumenta o conhecimento sobre os animais e o funcionamento dos ecossistemas marinhos</string>
+    <string name="resposta4.1t5">d) Reduz a biodiversidade marinha</string>
+
+    <!-- Topico5 Quiz 2 -->
+    <string name="pergunta2.t5">As energias renováveis no mar aproveitam quais dos seguintes recursos?</string>
+    <string name="numero2.t5">2</string>
+    <string name="resposta1.2t5">a) Corrente oceânica e energia eólica</string>
+    <string name="resposta2.2t5">b) Energia solar e térmica</string>
+    <string name="resposta3.2t5">c) Energia elétrica e mecânica</string>
+    <string name="resposta4.2t5">d) Vapor e água doce</string>
+
+    <!-- Topico5 Quiz 3 -->
+    <string name="pergunta3.t5">Qual é o benefício de instalar recifes artificiais?</string>
+    <string name="numero3.t5">3</string>
+    <string name="resposta1.3t5">a) Aumenta a velocidade da corrente oceânica</string>
+    <string name="resposta2.3t5">b) Reduz a erosão das costas e ajuda na restauração de habitats marinhos</string>
+    <string name="resposta3.3t5">c) Impede a pesca de peixes ameaçados</string>
+    <string name="resposta4.3t5">d) Transforma resíduos plásticos em energia</string>
+
+    <!-- Topico5 Quiz 4 -->
+    <string name="pergunta4.t5">Como as barreiras flutuantes auxiliam na limpeza dos oceanos?</string>
+    <string name="numero4.t5">4</string>
+    <string name="resposta1.4t5">a) Elas criam recifes artificiais</string>
+    <string name="resposta2.4t5">b) Elas direcionam detritos plásticos para uma área delimitada onde podem ser coletados</string>
+    <string name="resposta3.4t5">c) Elas transformam o plástico em energia</string>
+    <string name="resposta4.4t5">d) Elas repelem detritos para longe das praias</string>
+
+    <!-- Topico5 Quiz 5 -->
+    <string name="pergunta5.t5">Quais as tecnologias usadas para monitoria dos nosso oceanos?</string>
+    <string name="numero5.t5">5</string>
+    <string name="resposta1.5t5">a) Barreiras Flutuantes para Limpeza de Resíduos Plásticos</string>
+    <string name="resposta2.5t5">b) Recifes Artificiais e Tecnologias de Restauração Marinha</string>
+    <string name="resposta3.5t5">c) Energias Renováveis no Mar</string>
+    <string name="resposta4.5t5">d) Monitoramento por Satélite e Inteligência Artificial</string>
+
+
+    <!-- Topico6 Quiz 1 -->
+    <string name="pergunta1.t6">O que há de comum entre baleias e cachorros?</string>
+    <string name="numero1.t6">1</string>
+    <string name="resposta1.1t6">a) Ambos possuem brânquias e respiram debaixo d\'água.</string>
+    <string name="resposta2.1t6">b) Ambos são répteis de sangue frio e têm escamas.</string>
+    <string name="resposta3.1t6">c) Ambos são mamíferos, possuem pulmões e respiram ar.</string>
+    <string name="resposta4.1t6">d) Ambos são herbívoros e se alimentam exclusivamente de plantas.</string>
+
+    <!-- Topico6 Quiz 2 -->
+    <string name="pergunta2.t6">"A partir desses sistema foi feito lixeiras com cores que representam o lixo que deverá ser despejado", essa etapa da reciclagem é definida como:</string>
+    <string name="numero2.t6">2</string>
+    <string name="resposta1.2t6">a) Triagem</string>
+    <string name="resposta2.2t6">b) Transformação</string>
+    <string name="resposta3.2t6">c) Coleta</string>
+    <string name="resposta4.2t6">d) Realocação</string>
+
+    <!-- Topico6 Quiz 3 -->
+    <string name="pergunta3.t6">Dentre os animais que serão citados, identifique qual está classificado como mamífero:</string>
+    <string name="numero3.t6">3</string>
+    <string name="resposta1.3t6">a) Tubarão, Polvo, Estrela-do-mar, Lula</string>
+    <string name="resposta2.3t6">b) Cavalo-marinho, Caranguejo, Ostra, Água-viva</string>
+    <string name="resposta3.3t6">c) Golfinho, Baleia, Foca, Lontra-marinha</string>
+    <string name="resposta4.3t6">d) Peixe-palhaço, Moreia, Enguia, Peixe-leão</string>
+
+    <!-- Topico6 Quiz 4 -->
+    <string name="pergunta4.t6">Dentre os benefícios da reciclagem qual deles se aplica?</string>
+    <string name="numero4.t6">4</string>
+    <string name="resposta1.4t6">a) Redução do acumulo de lixo, reaproveitamento de materiais, redução de emprego;</string>
+    <string name="resposta2.4t6">b) Redução da poluição da água, desaproveitamento de recursos, incentivo a limpeza pública;</string>
+    <string name="resposta3.4t6">c) Racionalização dos recursos, redução do acumulo de lixo, melhor qualidade de vida.</string>
+    <string name="resposta4.4t6">d) Redução do aquecimento global, bem-estar animal, redução de lixo exclusivamente em ambientes marítimos;</string>
+
+    <!-- Topico6 Quiz 5 -->
+    <string name="pergunta5.t6">Quantos por cento de água cobre o planeta terra?</string>
+    <string name="numero5.t6">5</string>
+    <string name="resposta1.5t6">a) Aproximadamente 61%</string>
+    <string name="resposta2.5t6">b) Aproximadamente 90%</string>
+    <string name="resposta3.5t6">c) Aproximadamente 71%</string>
+    <string name="resposta4.5t6">d) Aproximadamente 86%</string>
+
+    <!-- Topico6 Quiz 6 -->
+    <string name="pergunta6.t6">Qual é o método de coleta seletiva que busca fazer parceria com instituições públicos ou privadas para a coleta de materiais recicláveis por catadores:</string>
+    <string name="numero6.t6">6</string>
+    <string name="resposta1.6t6">a) Serviços de Troca e Acessibilidade a Descarte de Lixo (STADL)</string>
+    <string name="resposta2.6t6">b) Programa Interno de Coleta Seletiva (PIC)</string>
+    <string name="resposta3.6t6">c) Posto de Entrega Voluntária (PEV)</string>
+    <string name="resposta4.6t6">d) Porta a Porta</string>
+
+    <!-- Topico6 Quiz 7 -->
+    <string name="pergunta7.t6">Qual é o principal objetivo da reciclagem? </string>
+    <string name="numero7.t6">7</string>
+    <string name="resposta1.7t6">a) Redução de resíduos através da reutilização e renovação desses produtos;</string>
+    <string name="resposta2.7t6">b) Reutilizar materiais com viés econômico, já que matérias reutilizados possuem um gasto menor;</string>
+    <string name="resposta3.7t6">c) Reutilizar recursos para evitar o acumulo de lixo;</string>
+    <string name="resposta4.7t6">d) Trazer novos empregos através da coleta de lixo e incineração do mesmo;</string>
+
+    <!-- Topico6 Quiz 8 -->
+    <string name="pergunta8.t6">"O micro plástico é quando há uma fragmentação de um plástico a níveis microscópicos e afetam todo o ambiente marítimo e seu ecossistema". </string>
+    <string name="numero8.t6">8</string>
+    <string name="resposta1.8t6">a) Verdadeiro</string>
+    <string name="resposta2.8t6">b) Falso</string>
+    <string name="resposta3.8t6">c) Meio termo</string>
+    <string name="resposta4.8t6">d) NDA</string>
+
+    <!-- Topico6 Quiz 9 -->
+    <string name="pergunta9.t6">O que é a preservação marítima?</string>
+    <string name="numero9.t6">9</string>
+    <string name="resposta1.9t6">a) Um conjunto de práticas e leis destinadas a proteger os oceanos, mares e seus ecossistemas da poluição e exploração excessiva.</string>
+    <string name="resposta2.9t6">b) O cultivo de plantas aquáticas para a produção de oxigênio em ambientes fechados.</string>
+    <string name="resposta3.9t6">c) A criação de áreas urbanas em regiões costeiras para promover o turismo.</string>
+    <string name="resposta4.9t6">d) A construção de barragens e diques para controlar o nível das águas do mar.</string>
+
+    <!-- Topico6 Quiz 10 -->
+    <string name="pergunta10.t6">Oque são as Esponjas?</string>
+    <string name="numero10.t6">10</string>
+    <string name="resposta1.10t6">a) Animais vertebrados com sistema nervoso e órgãos internos complexos.</string>
+    <string name="resposta2.10t6">b) Plantas marinhas que realizam fotossíntese e produzem oxigênio.</string>
+    <string name="resposta3.10t6">c) Rochas formadas pelo acúmulo de sedimentos no fundo do mar.</string>
+    <string name="resposta4.10t6">d) Animais invertebrados com uma estrutura corporal simplificada, com uma fina estrutura externa cheia de furinhos microscópicos e uma abertura grande chamada de ósculo.</string>
+
+    <!-- Prova Real -->
+    <string name="textoReal">Nossa aventura está chegando ao fim, mas ainda falta O GRANDE DESAFIO.\n\nDessa vez será mais difícil que das outras vezes, já que ira abordar todo conteúdo que foi apresentado.\n\nVamos lá!? Então mão na massa.</string>
+
+    <!-- Main Activity 2 (agradecimentos finais) -->
+    <string name="texto">Agradeçemos a sua participação!\n\nReferências:\n\nTecnologias Sustentáveis: Iniciativas Inovadoras para a Preservação dos Oceanos - https://voiceoftheoceans.com/tecnologias-sustentaveis-iniciativas-inovadoras-para-a-preservacao-dos-oceanos/#:~:text=O%20monitoramento%20por%20sat%C3%A9lite%20e,e%20em%20uma%20escala%20global.\n\nReciclagem - https://www.todamateria.com.br/reciclagem/\n\n04 etapas do processo de reciclagem de Resíduos Sólidos. - https://cpmrsrmb.ce.gov.br/informa/215/04-etapas-do-processo-de-reciclagem-de-residuos-solidos\n\nDepartamento de Oceano e Gestão Costeira - https://www.gov.br/mma/pt-br/composicao/smc/doceano#:~:text=Departamento%20de%20Oceano%20e%20Gest%C3%A3o,Ambiente%20e%20Mudan%C3%A7a%20do%20Clima
+\n\nComo podemos evitar a poluição das águas? -https://g1.globo.com/sp/itapetininga-regiao/especial-publicitario/um/troque-todos-por-um/noticia/2018/08/23/como-podemos-evitar-a-poluicao-das-aguas.ghtml
+\n\nCitações:\n\nNUNES, Fernando Custódio et al. Impactos ambientais causados por vazamento de petróleo no Golfo do México. In: I Congresso Nacional de Engenharia de Petróleo, Gás Natural e Biocombustíveis, Campina Grande, Brasil. 2015. p. 1-8.\n\nCUNHA, Leandro Custódio da. Poluição marinha por plásticos: uma questão de direito internacional. 2018. Tese de Doutorado.\n\nSANTOS, Rayssa Bento dos. Poluição aquática: impactos e soluções para os animais marinhos. 2023.
+</string>
+</resources>

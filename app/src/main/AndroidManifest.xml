@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/aquaLife"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AquaLife"
+        tools:targetApi="31">
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".Topico6_t1"
+            android:exported="false" />
+        <activity
+            android:name=".Topico6_zquiz15"
+            android:exported="false" />
+        <activity
+            android:name=".Topico6_zquiz14"
+            android:exported="false" />
+        <activity
+            android:name=".Topico6_zquiz13"
+            android:exported="false" />
+        <activity
+            android:name=".Topico6_zquiz12"
+            android:exported="false" />
+        <activity
+            android:name=".Topico6_zquiz11"
+            android:exported="false" />
+        <activity
+            android:name=".Topico6_zquiz10"
+            android:exported="false" />
+        <activity
+            android:name=".Topico6_zquiz9"
+            android:exported="false" />
+        <activity
+            android:name=".Topico6_zquiz8"
+            android:exported="false" />
+        <activity
+            android:name=".Topico6_zquiz7"
+            android:exported="false" />
+        <activity
+            android:name=".Topico6_zquiz6"
+            android:exported="false" />
+        <activity
+            android:name=".Topico6_zquiz5"
+            android:exported="false" />
+        <activity
+            android:name=".Topico6_zquiz4"
+            android:exported="false" />
+        <activity
+            android:name=".Topico6_zquiz3"
+            android:exported="false" />
+        <activity
+            android:name=".Topico6_zquiz2"
+            android:exported="false" />
+        <activity
+            android:name=".Topico6_zquiz1"
+            android:exported="false" />
+        <activity
+            android:name=".Topico5_zquiz5"
+            android:exported="false" />
+        <activity
+            android:name=".Topico5_zquiz4"
+            android:exported="false" />
+        <activity
+            android:name=".Topico5_zquiz3"
+            android:exported="false" />
+        <activity
+            android:name=".Topico5_zquiz2"
+            android:exported="false" />
+        <activity
+            android:name=".Topico5_zquiz1"
+            android:exported="false" />
+        <activity
+            android:name=".Topico4_zquiz5"
+            android:exported="false" />
+        <activity
+            android:name=".Topico4_zquiz4"
+            android:exported="false" />
+        <activity
+            android:name=".Topico3_zquiz3"
+            android:exported="false" />
+        <activity
+            android:name=".Topico3_zquiz2"
+            android:exported="false" />
+        <activity
+            android:name=".Topico3_zquiz1"
+            android:exported="false" />
+        <activity
+            android:name=".Topico4_zquiz3"
+            android:exported="false" />
+        <activity
+            android:name=".Topico4_zquiz2"
+            android:exported="false" />
+        <activity
+            android:name=".Topico3_zquiz5"
+            android:exported="false" />
+        <activity
+            android:name=".Topico4_zquiz1"
+            android:exported="false" />
+        <activity
+            android:name=".Topico3_zquiz4"
+            android:exported="false" />
+        <activity
+            android:name=".Topico2_zquiz5"
+            android:exported="false" />
+        <activity
+            android:name=".Topico2_zquiz4"
+            android:exported="false" />
+        <activity
+            android:name=".Topico2_zquiz3"
+            android:exported="false" />
+        <activity
+            android:name=".Topico2_zquiz2"
+            android:exported="false" />
+        <activity
+            android:name=".Topico5"
+            android:exported="false" />
+        <activity
+            android:name=".Topico4"
+            android:exported="false" />
+        <activity
+            android:name=".Topico3"
+            android:exported="false" />
+        <activity
+            android:name=".Topico6"
+            android:exported="false" />
+        <activity
+            android:name=".Topico2"
+            android:exported="false" />
+        <activity
+            android:name=".Topico1_zquiz10"
+            android:exported="false" />
+        <activity
+            android:name=".Topico1_zquiz9"
+            android:exported="false" />
+        <activity
+            android:name=".Topico1_zquiz8"
+            android:exported="false" />
+        <activity
+            android:name=".Topico1_zquiz7"
+            android:exported="false" />
+        <activity
+            android:name=".Topico1_zquiz6"
+            android:exported="false" />
+        <activity
+            android:name=".Topico1_zquiz5"
+            android:exported="false" />
+        <activity
+            android:name=".Topico1_zquiz4"
+            android:exported="false" />
+        <activity
+            android:name=".Topico1_zquiz3"
+            android:exported="false" />
+        <activity
+            android:name=".Topico1_zquiz2"
+            android:exported="false" />
+        <activity
+            android:name=".Topico5_t1"
+            android:exported="false" />
+        <activity
+            android:name=".Topico4_t1"
+            android:exported="false" />
+        <activity
+            android:name=".Topico3_t1"
+            android:exported="false" />
+        <activity
+            android:name=".Topico2_t1"
+            android:exported="false" />
+        <activity
+            android:name=".Topico1_zquiz1"
+            android:exported="false" />
+        <activity
+            android:name=".UserSettings"
+            android:exported="false" />
+        <activity
+            android:name=".Cadastro"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".Topico1_t2"
+            android:exported="false" />
+        <activity android:name=".Topico1" /> <!-- android:exported="false" -->
+        <activity android:name=".Topico1_t1" /> <!-- android:exported="false" -->
+        <activity android:name=".SobreAquaLife" /> <!-- android:exported="false" -->
+        <activity android:name=".AquaCadastro" /> <!-- android:exported="false" -->
+        <activity
+            android:name=".Splash"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>
