@@ -6,7 +6,7 @@
 
 **Um aplicativo Android focado em conscientização e conhecimento sobre animais marinhos e oceanos.**  
 
-[➡️ Baixe o APK no GitHub quando disponível!]
+[➡️ Baixe o APK no GitHub em releases!]
 
 ---
 
@@ -57,11 +57,9 @@ Desenvolvido como atividade da disciplina **Programação para Dispositivos Móv
 
 ## 📷 Imagens
 
-<img src="img/aqualifeLogin.png" width=250px>  
-<img src="img/aquaLifeHome.png" width=250px>  
-<img src="img/aquaLifeTopico.png" width=250px>  
-<img src="img/aquaLifeTexto.png" width=250px>  
-<img src="img/aquaLifeQuiz.png" width=250px>  
+<img src="img/aqualifeLogin.png" width=250px> <img src="img/aquaLifeHome.png" width=250px>
+<img src="img/aquaLifeTopico.png" width=250px> <img src="img/aquaLifeTexto.png" width=250px>
+<img src="img/aquaLifeQuiz.png" width=250px>
 
 ---
 
