@@ -28,7 +28,7 @@ Oferece conteúdos ricos em curiosidades, informações e quizes para estimular 
 
 ## 🛠️ Tecnologias utilizadas
 
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white) ![Shared Preferences](https://img.shields.io/badge/Shared_Preferences-6d6d6d?style=for-the-badge&logo=android&logoColor=white) ![XML](https://img.shields.io/badge/XML-0066CC?style=for-the-badge&logo=xml&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white) ![Shared Preferences](https://img.shields.io/badge/Shared_Preferences-6d6d6d?style=for-the-badge&logo=android&logoColor=white) ![XML](https://img.shields.io/badge/XML-0066CC?style=for-the-badge&logo=xml&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ---
 
