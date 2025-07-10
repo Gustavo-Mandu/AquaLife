@@ -13,7 +13,7 @@
 ## 📝 Sobre o projeto
 
 **Aqua Life** é um aplicativo desenvolvido para informar e conscientizar sobre a vida marinha e os oceanos.  
-Oferece conteúdos ricos em curiosidades, informações e quizes para estimular o aprendizado de forma interativa.
+Oferece conteúdos ricos em curiosidades, informações e quizzes para estimular o aprendizado de forma interativa.
 
 ---
 
